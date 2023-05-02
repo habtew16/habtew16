@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach mehabtamuwolde96@gmail.com
+- 📫 How to reach me  habtamuwolde96@gmail.com
 
 <!---
 habtew16/habtew16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
